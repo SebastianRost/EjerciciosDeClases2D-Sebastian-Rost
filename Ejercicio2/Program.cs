@@ -20,8 +20,8 @@ namespace Ejercicio2
                 Console.WriteLine("ERROR. ¡Reingresar número!");
                 numero = int.Parse(Console.ReadLine());
             }
-            cuadrado = numero * numero;
-            cubo = cuadrado * numero;
+            cuadrado = Math.Pow(numero,2);
+            cubo = Math.Pow(numero, 3);
             Console.WriteLine("El cuadrado del numero es: {0} y el cubo: {1} ", cuadrado, cubo);
 
         }
