@@ -1,0 +1,16 @@
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\aprendiendo clase 1.exe
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\aprendiendo clase 1.deps.json
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\aprendiendo clase 1.runtimeconfig.json
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\aprendiendo clase 1.runtimeconfig.dev.json
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\aprendiendo clase 1.dll
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\ref\aprendiendo clase 1.dll
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\bin\Debug\net5.0\aprendiendo clase 1.pdb
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.csproj.AssemblyReference.cache
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.AssemblyInfoInputs.cache
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.AssemblyInfo.cs
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.dll
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\ref\aprendiendo clase 1.dll
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.pdb
+C:\Users\Sebastián\source\repos\Clase1\aprendiendo clase 1\obj\Debug\net5.0\aprendiendo clase 1.genruntimeconfig.cache
